@@ -1,4 +1,4 @@
-# AWQAF
+# Beqaa
 
 ##//An application for the Ministry of Awqaf to assist it with digital transformation to be a basic base that carries all the data of mosques and endowments for a professional and organizational management by running cadres and tasks on a systematic and exemplary basis to carry out their functional roles flexibly and at high speed from anywhere.
 
